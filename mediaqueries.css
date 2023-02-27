@@ -185,6 +185,15 @@ li{
   }
 
 }
+@media (max-width:712px){
+  .hero-text{
+    transform: translatex(-65px);
+  }
+  
+
+}
+
+
 
 @media (max-width: 590px){
   
