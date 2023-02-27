@@ -220,6 +220,13 @@ justify-content: end;
 
 @media (max-width: 480px){
 
+  .hero-text{
+    transform: translatex(-36px);
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
 
   .hero_recomendados_card {
     width: 260px;
@@ -280,11 +287,6 @@ justify-content: end;
   
   }
 
-  .hero-text{
-    transform: translateX(0px);
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-  }
+  
 }
 
